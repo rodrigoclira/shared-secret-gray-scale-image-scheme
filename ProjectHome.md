@@ -1,0 +1,1 @@
+Projeto da cadeira de Processamento digital de imagens da universidade de pernambuco. Realizado por Rodrigo Santa Cruz e Rodrigo Lira. Consiste na implementação de um algoritmo proposto no artigo Sharing a Secret Gray Image in Multiple Images.
